@@ -52,15 +52,15 @@
 <h2>📊 GitHub Stats:</h2>
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;">
+<!--     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=smit-sakariya&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%; max-width: 400px; margin-right: 10px; margin-bottom: 10px;" />
-    </td>
+    </td> -->
     <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=smit-sakariya&theme=radical&hide_border=true" style="width: 100%; max-width: 400px; margin-left: 10px; margin-bottom: 10px;" />
     </td>
   </tr>
 </table>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit-sakariya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit-sakariya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" /> -->
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
