@@ -43,12 +43,6 @@
 
 ---
 
-## 💻 Tech Card:
-
- <a href="https://app.daily.dev/smitsakariya"><img src="https://api.daily.dev/devcards/v2/uvE2ap5ug.png?r=z39&type=default" width="356" alt="Smit Sakariya's Dev Card"/></a>
- 
----
-
 <h2>📊 GitHub Stats:</h2>
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
